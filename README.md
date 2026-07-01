@@ -1,4 +1,4 @@
-# Hi, I'm Sanoj
+# Hi, I'm Sanoj 
 
 I like building useful software with a thoughtful user experience, clean engineering foundations, and just enough polish to make things feel effortless.
 
@@ -17,7 +17,7 @@ I am curious by default: I enjoy learning how systems work, turning messy ideas 
 - I like projects that combine creativity, usefulness, and strong execution.
 - I am always learning, experimenting, breaking and looking for better ways to build.
 
-## Currently Exploring
+## Currently Exploring Topics
 
 - Smarter developer tools and AI-assisted systems and workflows
 - Product ideas that save time, reduce friction, or make everyday work more enjoyable
