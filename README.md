@@ -25,7 +25,7 @@ I am curious by default: I enjoy learning how systems work, turning messy ideas 
 
 ## Connect
 
-Portfolio: [sanoj.dev](https://sanoj.dev){:target="_blank"}
+Portfolio: [sanoj.dev](https://sanoj.dev)
 
 If something here catches your eye, feel free to explore my projects or reach out.
 
