@@ -12,7 +12,6 @@ I am curious by default: I enjoy learning how systems work, turning messy ideas 
 
 ## How I Work
 
-- I care about clarity in code, design, and communication.
 - I enjoy solving problems from both the technical and human side.
 - I like projects that combine creativity, usefulness, and strong execution.
 - I am always learning, experimenting, breaking and looking for better ways to build.
@@ -22,10 +21,11 @@ I am curious by default: I enjoy learning how systems work, turning messy ideas 
 - Smarter developer tools and AI-assisted systems and workflows
 - Product ideas that save time, reduce friction, or make everyday work more enjoyable
 - Modern design and development patterns
+- AI image and video generation (MLX)
 
 ## Connect
 
-Portfolio: [sanoj.dev](https://sanoj.dev)
+Portfolio: [sanoj.dev](https://sanoj.dev){:target="_blank"}
 
 If something here catches your eye, feel free to explore my projects or reach out.
 
