@@ -21,7 +21,8 @@ I am curious by default: I enjoy learning how systems work, turning messy ideas 
 - Smarter developer tools and AI-assisted systems and workflows
 - Product ideas that save time, reduce friction, or make everyday work more enjoyable
 - Modern design and development patterns
-- AI image and video generation (MLX)
+- AI image and video generation
+- Motion design with Three.js and Claude Code
 
 ## Connect
 
